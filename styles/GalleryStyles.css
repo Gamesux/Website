@@ -60,6 +60,7 @@ body{
 
 .responsive {
   padding: 0 6px;
+  padding-left: 100px;
   float: left;
   width: 24.99999%;
 }
@@ -89,8 +90,9 @@ div.desc {
   box-sizing: border-box;
 }
 
-br.long {
-	line-height: 1500%;
+padding-top {
+   display: block;
+   margin: 100px 0;
 }
 
 @font-face {
