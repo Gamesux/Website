@@ -7,17 +7,23 @@ body{
 }
 
 .dropbtn {
+  background-image: url(images/randomnebula.PNG);
+  background-size: cover;
   background-color: #3377ff;
   color: white;
   margin-left: 40px;
   margin-top: 40px;
   padding: 16px;
-  font-size: 16px;
+  font-size: 26px;
+  font-family: Futura;
+	src: url(futuramediumcondensedbt.ttf);
   border: none;
   cursor: pointer;
 }
 
 .dropbtn:hover, .dropbtn:focus {
+  background-image: url(images/dimmernebula.PNG);
+  transition: 0.2s ease-in;
   background-color: #0000b3;
 }
 
