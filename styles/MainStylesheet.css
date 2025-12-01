@@ -19,6 +19,7 @@ body{
 	src: url(futuramediumcondensedbt.ttf);
   border: none;
   cursor: pointer;
+  border-radius: 12px;
 }
 
 .dropbtn:hover, .dropbtn:focus {
@@ -65,3 +66,4 @@ body{
 	background-image: none !important;
   }
 }
+
